@@ -3,7 +3,7 @@ This is the code used to perform the comparison of DL algorithms (CNN-Transforme
 To reproduce the results you must install the dependencies.
 You can do this in a conda environment:
 ```bash
-conda create -n myenv
+conda create -n myenv python=3.8
 source activate myenv
 pip install -r requirements.txt
 ```
